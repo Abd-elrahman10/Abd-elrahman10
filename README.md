@@ -51,40 +51,6 @@ I'm a Computer Science student specializing in **Information Systems** at **Cair
 - Operating Systems
 - SCRUM / Agile
 
-### Soft Skills
-- 🧠 Problem Solving
-- 🤝 Team Collaboration
-- 📊 Analytical Thinking
-- ⏱️ Time Management
-
----
-
-## 🚀 Projects
-
-### 📚 Online Library
-A full-stack web application for managing an online library.
-- **Tech:** HTML, CSS, Vanilla JavaScript, Django
-
-### ♟️ Board Games
-A collection of board games implementing core OOP concepts.
-- **Tech:** C++
-- **Highlights:** Applied all fundamental OOP paradigms
-
-### 🪓 Viking Chess (Hnefatafl)
-An AI-powered chess variant game using adversarial search.
-- **Tech:** Python
-- **Highlights:** Implemented the Alpha-Beta Pruning algorithm for the game AI
-
-### 🔄 ETL Projects
-Data extraction, transformation, and loading pipelines.
-- **Tech:** SSIS, Microsoft SQL Server
-
-### 🛒 E-Commerce Data Warehouse
-A complete data warehousing and analytics solution for an e-commerce system.
-- **Tech:** SSIS, Microsoft SQL Server, Power BI
-- **Highlights:** Built a full data warehouse pipeline and an interactive analytical dashboard
-
----
 
 ## 📬 Get In Touch
 
