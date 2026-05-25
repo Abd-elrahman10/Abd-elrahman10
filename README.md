@@ -91,6 +91,3 @@ A complete data warehousing and analytics solution for an e-commerce system.
 - 🔗 LinkedIn: *[LinkedIn Profile]*
 - 🐙 GitHub: *[GitHub Profile]*
 
----
-
-*"Building systems that make data meaningful."*
