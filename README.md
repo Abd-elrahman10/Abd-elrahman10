@@ -54,6 +54,7 @@ I'm a Computer Science student specializing in **Information Systems** at **Cair
 
 ## 📬 Get In Touch
 
-- 🔗 LinkedIn: *[LinkedIn Profile]*
-- 🐙 GitHub: *[GitHub Profile]*
+- 🔗 LinkedIn: *https://www.linkedin.com/in/abd-el-rahman-mohamed-936561324/*
+- Email : *abdelrahmanmohamed191120@gmail.com*
+
 
