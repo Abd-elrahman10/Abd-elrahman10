@@ -22,19 +22,6 @@ I'm a Computer Science student specializing in **Information Systems** at the **
 
 ---
 
-## 🚀 Projects
-
-| Project | Tech | Description |
-|---|---|---|
-| **Data Warehouse for E-Commerce** | SSIS · SQL Server · Power BI | Built a data warehouse for an e-commerce system with an analytical Power BI dashboard |
-| **ETL Projects** | SSIS · SQL Server | Developed multiple ETL pipelines to extract, transform, and load data |
-| **Sales Analytics Dashboard** | Excel · Power Pivot · PivotTables · Slicers | Self-service BI dashboard on ~10K sales transactions with a related data model, 3 interactive pages, cross-filtering Year/Quarter slicers, and a VBA "clear filters" macro |
-| **Car Price Prediction** | Python · Scikit-Learn | ML model to predict used car prices in Egypt |
-| **Online Library** | HTML · CSS · JavaScript · Django | Online library web application |
-| **Viking Chess** | Python · Prolog | Viking Chess game with an AI using alpha-beta pruning |
-
----
-
 ## 🛠️ Skills
 
 ### Programming Languages & Databases
